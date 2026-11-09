@@ -1,0 +1,14 @@
+# deps
+node_modules/
+# build
+dist/
+.next/
+out/
+# env e segredos
+.env
+.env.*
+!.env.example
+# logs/sistema
+*.log
+.DS_Store
+coverage/
